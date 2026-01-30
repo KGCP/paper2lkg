@@ -12,17 +12,17 @@ This repository is related to the research "Open Local Knowledge Graph Construct
 
 ## Other Materials
 
-([link](./documentation/articles/(Paper)%20(ver.2025.2.25)%20Open%20Local%20Knowledge%20Graph%20Construction%20from%20Academic%20Documents%20Using%20Generative%20Large%20Language%20Models.pdf) (accepted; to be published)
+([link](https://dl.acm.org/doi/10.1145/3701716.3717820)) (accepted; to be published)
   
   *This paper aims to provide a quick overview to the research project and present the key ideas. It contains research motivation, background, literature review, an short overview of the pipeline artifact, an short overview of the research methodology, and the key findings of the research. (Last Update 7 Feb 2025)*
   
   **Notes to the NLP4KGC Reviewers**
     Thank you for reviewing our research paper and providing valuable feedback. Please refer to [this page](./documentation/paper-update-notes/) for the changes between the first submission (on 1 Jan) and the second submission (on 7 Feb) based on the feedback.  
 
-([link](./documentation/articles/(Thesis)%20(ver.2024.11.18)%20Local%20Holistic%20Knowledge%20Graph%20Construction%20From%20Academic%20Papers%20Using%20Large%20Language%20Models%20Through%20In-Context%20Learning.pdf)) Honours thesis (unpublished)
+([link](./deliverables/thesis-ver.2024.11.18.pdf)) Honours thesis (unpublished)
 
   *The original documentation of this research. It contains a comprehensive background and literature review, a detailed description of the pipeline artifact and research methods, almost all the experiment results, and detailed analysis on the experiment results. (Last Update 11 Nov 2024)*
 
-([link](./documentation/articles/(Poster)%20(ver.2024.11.18)%20Local%20Holistic%20Knowledge%20Graph%20Construction%20From%20Academic%20Papers%20Using%20Large%20Language%20Models%20Through%20In-Context%20Learning.pdf)) Poster for the honours thesis
+([link](./deliverables/poster-ver.2024.11.18.pdf)) Poster for the honours thesis
 
   *An intuitive poster for a quick overview of this research project. (Last Update 11 Nov 2024)*
