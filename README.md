@@ -32,5 +32,5 @@ This repository is related to the research "Open Local Knowledge Graph Construct
 ## ⚖️ License
 This project uses a split-license model:
 * 💻 **Code:** [MIT](LICENSE) - Feel free to use and modify for any purpose.
-* 📝 **Thesis & Presentation:** [CC BY-NC-ND 4.0](LICENSE) - You may download and share for evaluation, but you cannot modify them or use them commercially.
+* 📝 **Thesis & Presentation:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) - You may download and share for evaluation, but you cannot modify them or use them commercially.
 * 🎓 **Affiliation:** Research conducted at **The Australian National University (ANU)**.
