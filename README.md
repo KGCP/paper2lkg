@@ -26,3 +26,11 @@ This repository is related to the research "Open Local Knowledge Graph Construct
 ([link](./deliverables/poster-ver.2024.11.18.pdf)) Poster for the honours thesis
 
   *An intuitive poster for a quick overview of this research project. (Last Update 11 Nov 2024)*
+
+---
+
+## ⚖️ License
+This project uses a split-license model:
+* 💻 **Code:** [MIT](LICENSE) - Feel free to use and modify for any purpose.
+* 📝 **Thesis & Presentation:** [CC BY-NC-ND 4.0](LICENSE) - You may download and share for evaluation, but you cannot modify them or use them commercially.
+* 🎓 **Affiliation:** Research conducted at **The Australian National University (ANU)**.
