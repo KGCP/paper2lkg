@@ -9,7 +9,8 @@
 **Weight**: 24 Units (50% of Honours year)
 
 **Duration**: Feb 2024 – Nov 2024 
-Course Name: [COMP4550](https://programsandcourses.anu.edu.au/2024/course/comp4550) – Computing Research Project
+
+**Course Name**: [COMP4550](https://programsandcourses.anu.edu.au/2024/course/comp4550) – Computing Research Project
 
 **Final Mark**: 90 / 100
 
