@@ -29,5 +29,6 @@
 
 **Publication**:
 - **Haoting Chen**, Sergio José Rodríguez Méndez, and Pouya Ghiasnezhad Omran. 2025. *Open Local Knowledge Graph Construction from Academic Papers Using Generative Large Language Models*. In **Companion Proceedings of the ACM on Web Conference 2025 (WWW '25)**. Association for Computing Machinery, New York, NY, USA, 2551–2559. https://doi.org/10.1145/3701716.3717820
-About Publication:
+
+**About Publication**:
 - The paper for this project was accepted for the 4th International Workshop on Natural Language Processing for Knowledge Graph Creation (NLP4KGC), held in conjunction with The 2025 Web Conference, and was published in the ACM library. The paper covers most of the original honours research outputs, with additional experiments. Haoting Chen, the **primary author**, was responsible for programming, manuscript drafting and editing. The coauthors, who were also the supervisors, provided high-level guidance for this publication. During The 2025 Web Conference, Haoting Chen delivered an **oral presentation** about the research findings at the NLP4KGC workshop.
