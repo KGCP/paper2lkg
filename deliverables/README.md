@@ -16,7 +16,7 @@
 
 **Supervisors**: [Sergio José Rodríguez Méndez](https://researchportalplus.anu.edu.au/en/persons/sergio-rodriguez-mendez/), [Pouya Ghiasnezhad Omran](https://comp.anu.edu.au/people/pouya-ghiasnezhad-omran/)
 
-**Deliverables**: [thesis](https://github.com/KGCP/paper2lkg/blob/master/deliverables/thesis-ver.2024.11.18.pdf), [poster](https://github.com/KGCP/paper2lkg/blob/master/deliverables/poster-ver.2024.11.18.pdf), [code](https://github.com/KGCP/paper2lkg), [published paper](https://dl.acm.org/doi/10.1145/3701716.3717820), [presentation](https://github.com/KGCP/paper2lkg/tree/master/deliverables/2025-www-presentation)
+**Deliverables**: **[published paper](https://dl.acm.org/doi/10.1145/3701716.3717820)**, [thesis](https://github.com/KGCP/paper2lkg/blob/master/deliverables/thesis-ver.2024.11.18.pdf), [poster](https://github.com/KGCP/paper2lkg/blob/master/deliverables/poster-ver.2024.11.18.pdf), [code](https://github.com/KGCP/paper2lkg), [presentation](https://github.com/KGCP/paper2lkg/tree/master/deliverables/2025-www-presentation)
 
 **Description**:
 - This project has developed an agentic Knowledge Graph Construction (KGC) pipeline to transform unstructured academic text documents into their structured local Knowledge Graphs (KGs) representations, via Entity Recognition, Entity Linking, Relation Extraction, and Schema Generation.
